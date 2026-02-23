@@ -11,7 +11,7 @@ import GreenhousesEnhanced from "./pages/GreenhousesEnhanced";
 import AlertsEnhanced from "./pages/AlertsEnhanced";
 import ReportsEnhanced from "./pages/ReportsEnhanced";
 import Settings from "./pages/Settings";
-import Login from "./pages/Login";
+import Login from "./pages/login";
 import { Navigation } from "./components/Navigation";
 import { AIChat } from "./components/AIChat";
 import { useState, useEffect } from "react";
